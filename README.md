@@ -16,3 +16,4 @@ The code requires Python and Flask to run at minimum. Pycharm IDE is recommended
 
 ## Thanks
 Thanks to [Zak](https://github.com/RTCedu) for supplying the initial code.
+Reviewed by: T.J. Dewey , 6/15/2020
